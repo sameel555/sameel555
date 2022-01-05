@@ -14,7 +14,7 @@ Proficient in HTML, CSS, JavaScript,React.</div>
 
 📫 How to reach me sameel555@gmail.com
 
-🙋‍♂️ Visit My Portfolio 
+🙋‍♂️ Visit My Portfolio https://sameelportfolio.herokuapp.com/
 
 Connect with me:
   [Linkedin](https://www.linkedin.com/in/sameel-paikadan-8b058814b/) <br/>
